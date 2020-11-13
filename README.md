@@ -15,11 +15,13 @@
 ### Connect with me:
 
 [<img align="left" alt="alexgodfrey.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alex Godfrey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mister.godfrey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="agod1373 | Chess.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/3056/3056495.svg" />][chess]
 
 <br />
 
 [website]: https://www.alexgodfrey.com
 [instagram]: https://instagram.com/mister.godfrey
 [linkedin]: https://www.linkedin.com/in/alex-godfrey-91a7251b1/
+[chess]: https://www.chess.com/member/agod1373
